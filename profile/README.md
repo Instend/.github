@@ -1,1 +1,1 @@
-![alt](/banner.png)
+![alt](/profile/banner.png)
